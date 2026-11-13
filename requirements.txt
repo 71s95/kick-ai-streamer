@@ -1,0 +1,14 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+jinja2>=3.1,<4
+httpx>=0.28,<1
+cryptography>=44,<47
+python-dotenv>=1,<2
+keyring>=25,<26
+openai>=1.68,<3
+azure-cognitiveservices-speech>=1.42,<2
+sounddevice>=0.5,<1
+soundfile>=0.13,<1
+numpy>=2.2,<3
+pytest>=8,<10
+pytest-asyncio>=0.25,<2
